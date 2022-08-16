@@ -1,1 +1,1 @@
-<img src="https://github.com/Nerd00F/calculadora/blob/master/readme.png">
+<img src="https://github.com/alan-christian/calculadora/blob/master/readme.png">
