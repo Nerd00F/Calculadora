@@ -37,6 +37,7 @@
 }
 
 #resultado {
+  overflow: hidden;
   background-color: rgb(235, 223, 223);
   width: 207px;
   height: 30px;
